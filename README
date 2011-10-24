@@ -97,9 +97,7 @@ Translation Guide:
 
 
 Todo (maybe):
-- Split Spanish and Portuguese into correct subs (current is Euro variants only):
-  - Portuguese-(Brazilian).xml
-  - Portuguese-(European).xml
+- Split Spanish into correct subs (current is Euro variants only - Portuguese Brasilian/Euro was crosschecked by walsid):
   - Spanisch-(European).xml
   - Spanisch-(Latin American).xml
   - Spanisch-(Mexican).xml
