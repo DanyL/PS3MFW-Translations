@@ -79,6 +79,7 @@ Currently these translations are provided:
 - Slovenian/Slovenski
 - Spanish/Espanol (by rubio0075)
 - Spanish-Spain/Espanol-Espana (by vad3r+euss)
+- Spanish-Latin-American/Espanol-America-Latina (by naruse)
 - Swahili/Kiswahili
 - Swedish/Svenska
 - Tamil/Tamil-Nadu
@@ -101,7 +102,7 @@ Translation Guide:
 Todo (maybe):
 - Split Spanish into correct subs (current is Euro variants only - Portuguese Brasilian/Euro was crosschecked by walsid and splitted into seperate XML):
   - Spanish-Spain/Espanol-Espana.xml (already contributed by vad3r+euss)
-  - Spanisch-(Latin American).xml
+  - Spanish-Latin-American/Espanol-America-Latina.xml (already contributed by naruse)
   - Spanisch-(Mexican).xml
 - Add more uncovered languages:
   - Northern-Sotho_Sesotho-sa-Leboa.xml
